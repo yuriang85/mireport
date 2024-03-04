@@ -1,2 +1,2 @@
 # mireport
-Mi reporte - informe de roturas etc
+Mi reporte - Sistema de ticket de reportes etc
